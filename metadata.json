@@ -1,0 +1,6 @@
+{
+  "name": "HYPERDRIVE: INFINITE",
+  "description": "3D Endless Sci-Fi Aerospace Interceptor with customizable PBR ships, upgrades, sector maps, tactical tech, and mobile multi-touch controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
